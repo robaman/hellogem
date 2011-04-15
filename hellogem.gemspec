@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 	s.name = "hellogem"
-	s.version = "0.0.2"
+	s.version = "0.0.3"
 	s.date = "2008-10-02"
 	s.summary = "Hello world gem!"
 	s.email = "robert@kastel.se"
